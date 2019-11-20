@@ -4,7 +4,5 @@ v y 2
 y v 7
 s x 5
 u x 2
-s u 1
-u x 2
 x v 3
 y s 3
